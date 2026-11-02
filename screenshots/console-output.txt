@@ -1,0 +1,20 @@
+Zahlenraten: 1 - Ein Spieler, 2 - Zwei Spieler, 3 - Beenden
+1
+Geben Sie den Namen des Spielers ein :
+Aziz
+Runde 1 :
+Die Zahlen sind 11 und 78
+Aziz ist an der Reihe:
+Wählen Sie aus. Die nächste Zahl ist ...
+0: kleiner als 11 .
+1: genau 11 .
+2: zwischen 11 und 78 .
+3: genau 78 .
+4: größer als 78 .
+0
+Computer ist an der Reihe:
+Die Auswahl des Computers ist 3
+Die dritte zahl leutet 28
+Der aktuelle Punktestand lautet:
+Aziz : 0 Punkte
+Computer : 0 Punkte
